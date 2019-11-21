@@ -706,5 +706,15 @@ list:
     bsc_ver: 0.3
     comments:  
     node: UK
+-
+    name: Bio.tools
+    highlight: 15k tools, dump available from https://github.com/bio-tools/content.jsonld
+    example_URL: https://raw.githubusercontent.com/bio-tools/content.jsonld/master/aquaria/aquaria.jsonld
+    resource_URL: https://bio.tools
+    schema_org: SoftwareApplication
+    bsc_profile: Tool
+    bsc_ver: 0.4
+    comments:  
+    node: FR, NO, DK
 
 ---
